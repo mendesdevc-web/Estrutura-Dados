@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Algoritimos/Algoritimos.csproj" />
+  <Project Path="Algoritimos2/Estrutura de dados.csproj" />
+  <Project Path="POO/POO.csproj" />
+</Solution>
